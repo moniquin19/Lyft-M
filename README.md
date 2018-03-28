@@ -1,7 +1,7 @@
 # Lyft
 Ejercicio de  replica y maquetación utilizando HTML y CSS para diagramar y dar estilo, no se utilizó ningún tipo de frameworks (bootstrap o materialize). El objetivo era replicar este desarrollo, respetando el estilo y la escala de colores utilizado por la página original. 
 
-![Lyft] "(https://user-images.githubusercontent.com/30266022/38051393-848c7504-32a4-11e8-8103-2773021458c8.png")
+![Lyft] (https://user-images.githubusercontent.com/30266022/38051393-848c7504-32a4-11e8-8103-2773021458c8.png")
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 
