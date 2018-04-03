@@ -1,7 +1,7 @@
 # Lyft
 Ejercicio de  replica y maquetación utilizando HTML y CSS para diagramar y dar estilo, no se utilizó ningún tipo de frameworks (bootstrap o materialize). El objetivo era replicar este desarrollo, respetando el estilo y la escala de colores utilizado por la página original. 
 
-![LYFT](<img width="1280" alt="captura de pantalla 2018-03-28 a la s 4 22 05 p m" src="https://user-images.githubusercontent.com/30266022/38051393-848c7504-32a4-11e8-8103-2773021458c8.png">)
+![Lyft](https://image.ibb.co/hfvrXH/Captura_de_pantalla_2018_04_02_a_la_s_10_52_43_p_m.png)
 
 
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
